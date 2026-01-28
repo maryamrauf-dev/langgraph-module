@@ -1,0 +1,9 @@
+langgraph
+langchain-google-genai
+python-dotenv
+ipykernel
+pandas
+matplotlib
+langgraph-checkpoint-sqlite
+mypy-ipython
+langchain
