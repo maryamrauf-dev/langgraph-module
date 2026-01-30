@@ -12,7 +12,6 @@ This project is dedicated to exploring and implementing advanced AI agents using
 
 ## Project Structure
 - `landgraf_graph.ipynb`: Main experimentation notebook where the logic resides.
-- `utils/`: Reusable helper functions for visualization and data processing(pretty print messages).
 - `.env`: Securely managing API credentials.
 
 ## Learning Goals
